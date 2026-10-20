@@ -1,0 +1,16 @@
+{
+  "project": "HelloWorld",
+  "platform": "ios",
+  "provider": "github",
+  "github": {
+    "owner": "arielvengeance",
+    "repo": "ios-builder-hello-world-lab"
+  },
+  "ios": {
+    "path": ".",
+    "scheme": "HelloWorld",
+    "bundleId": "com.example.helloworld",
+    "configuration": "Debug"
+  },
+  "profiles": {}
+}
